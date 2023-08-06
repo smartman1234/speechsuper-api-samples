@@ -1,0 +1,413 @@
+{
+  "applicationId": "168932340900019b",
+  "result": {
+    "pronunciation": 100,
+    "rear_tone": "fall",
+    "speed": 196,
+    "resource_version": "1.5.5",
+    "duration": "4.609",
+    "words": [
+      {
+        "pause": {
+          "duration": 0,
+          "type": 0
+        },
+        "word": "今",
+        "phonemes": [
+          {
+            "pronunciation": 100,
+            "phoneme": "J",
+            "tone_index": "0",
+            "span": {
+              "end": 227,
+              "start": 215
+            },
+            "phone": "j"
+          },
+          {
+            "pronunciation": 100,
+            "phoneme": "IN",
+            "tone_index": "1",
+            "span": {
+              "end": 237,
+              "start": 227
+            },
+            "phone": "in"
+          }
+        ],
+        "span": {
+          "end": 237,
+          "start": 215
+        },
+        "pinyin": "jin",
+        "readType": 0,
+        "scores": {
+          "pronunciation": 100,
+          "prominence": 0,
+          "tone": 100,
+          "overall_pron": 100,
+          "overall": 100
+        },
+        "tone": "tone1",
+        "word_parts": [
+          {
+            "part": "今",
+            "beginIndex": 0,
+            "endIndex": 0,
+            "charType": 0
+          }
+        ],
+        "charType": 0
+      },
+      {
+        "pause": {
+          "duration": 0,
+          "type": 0
+        },
+        "word": "天",
+        "phonemes": [
+          {
+            "pronunciation": 100,
+            "phoneme": "T",
+            "tone_index": "0",
+            "span": {
+              "end": 249,
+              "start": 237
+            },
+            "phone": "t"
+          },
+          {
+            "pronunciation": 100,
+            "phoneme": "IAN",
+            "tone_index": "2",
+            "span": {
+              "end": 265,
+              "start": 249
+            },
+            "phone": "ian"
+          }
+        ],
+        "span": {
+          "end": 265,
+          "start": 237
+        },
+        "pinyin": "tian",
+        "readType": 0,
+        "scores": {
+          "pronunciation": 100,
+          "prominence": 0,
+          "tone": 100,
+          "overall_pron": 100,
+          "overall": 100
+        },
+        "tone": "tone1",
+        "word_parts": [
+          {
+            "part": "天",
+            "beginIndex": 1,
+            "endIndex": 1,
+            "charType": 0
+          }
+        ],
+        "charType": 0
+      },
+      {
+        "pause": {
+          "duration": 0,
+          "type": 0
+        },
+        "word": "的",
+        "phonemes": [
+          {
+            "pronunciation": 100,
+            "phoneme": "D",
+            "tone_index": "0",
+            "span": {
+              "end": 272,
+              "start": 265
+            },
+            "phone": "d"
+          },
+          {
+            "pronunciation": 100,
+            "phoneme": "E",
+            "tone_index": "1",
+            "span": {
+              "end": 281,
+              "start": 272
+            },
+            "phone": "e"
+          }
+        ],
+        "span": {
+          "end": 281,
+          "start": 265
+        },
+        "pinyin": "de",
+        "readType": 0,
+        "scores": {
+          "pronunciation": 100,
+          "prominence": 0,
+          "tone": 100,
+          "overall_pron": 100,
+          "overall": 100
+        },
+        "tone": "tone5",
+        "word_parts": [
+          {
+            "part": "的",
+            "beginIndex": 2,
+            "endIndex": 2,
+            "charType": 0
+          }
+        ],
+        "charType": 0
+      },
+      {
+        "pause": {
+          "duration": 0,
+          "type": 0
+        },
+        "word": "天",
+        "phonemes": [
+          {
+            "pronunciation": 100,
+            "phoneme": "T",
+            "tone_index": "0",
+            "span": {
+              "end": 302,
+              "start": 281
+            },
+            "phone": "t"
+          },
+          {
+            "pronunciation": 100,
+            "phoneme": "IAN",
+            "tone_index": "2",
+            "span": {
+              "end": 313,
+              "start": 302
+            },
+            "phone": "ian"
+          }
+        ],
+        "span": {
+          "end": 313,
+          "start": 281
+        },
+        "pinyin": "tian",
+        "readType": 0,
+        "scores": {
+          "pronunciation": 100,
+          "prominence": 0,
+          "tone": 100,
+          "overall_pron": 100,
+          "overall": 100
+        },
+        "tone": "tone1",
+        "word_parts": [
+          {
+            "part": "天",
+            "beginIndex": 3,
+            "endIndex": 3,
+            "charType": 0
+          }
+        ],
+        "charType": 0
+      },
+      {
+        "pause": {
+          "duration": 0,
+          "type": 0
+        },
+        "word": "气",
+        "phonemes": [
+          {
+            "pronunciation": 100,
+            "phoneme": "Q",
+            "tone_index": "0",
+            "span": {
+              "end": 335,
+              "start": 313
+            },
+            "phone": "q"
+          },
+          {
+            "pronunciation": 100,
+            "phoneme": "I",
+            "tone_index": "1",
+            "span": {
+              "end": 356,
+              "start": 335
+            },
+            "phone": "i"
+          }
+        ],
+        "span": {
+          "end": 356,
+          "start": 313
+        },
+        "pinyin": "qi",
+        "readType": 0,
+        "scores": {
+          "pronunciation": 100,
+          "prominence": 0,
+          "tone": 100,
+          "overall_pron": 100,
+          "overall": 100
+        },
+        "tone": "tone4",
+        "word_parts": [
+          {
+            "part": "气",
+            "beginIndex": 4,
+            "endIndex": 4,
+            "charType": 0
+          }
+        ],
+        "charType": 0
+      },
+      {
+        "pause": {
+          "duration": 0,
+          "type": 0
+        },
+        "word": "真",
+        "phonemes": [
+          {
+            "pronunciation": 100,
+            "phoneme": "ZH",
+            "tone_index": "0",
+            "span": {
+              "end": 370,
+              "start": 359
+            },
+            "phone": "zh"
+          },
+          {
+            "pronunciation": 100,
+            "phoneme": "EN",
+            "tone_index": "1",
+            "span": {
+              "end": 385,
+              "start": 370
+            },
+            "phone": "en"
+          }
+        ],
+        "span": {
+          "end": 385,
+          "start": 359
+        },
+        "pinyin": "zhen",
+        "readType": 0,
+        "scores": {
+          "pronunciation": 100,
+          "prominence": 0,
+          "tone": 100,
+          "overall_pron": 100,
+          "overall": 100
+        },
+        "tone": "tone1",
+        "word_parts": [
+          {
+            "part": "真",
+            "beginIndex": 5,
+            "endIndex": 5,
+            "charType": 0
+          }
+        ],
+        "charType": 0
+      },
+      {
+        "pause": {
+          "duration": 0,
+          "type": 0
+        },
+        "word": "好",
+        "phonemes": [
+          {
+            "pronunciation": 100,
+            "phoneme": "H",
+            "tone_index": "0",
+            "span": {
+              "end": 394,
+              "start": 385
+            },
+            "phone": "h"
+          },
+          {
+            "pronunciation": 100,
+            "phoneme": "AO",
+            "tone_index": "1",
+            "span": {
+              "end": 429,
+              "start": 394
+            },
+            "phone": "ao"
+          }
+        ],
+        "span": {
+          "end": 429,
+          "start": 385
+        },
+        "pinyin": "hao",
+        "readType": 0,
+        "scores": {
+          "pronunciation": 100,
+          "prominence": 0,
+          "tone": 77,
+          "overall_pron": 95,
+          "overall": 100
+        },
+        "tone": "tone3",
+        "word_parts": [
+          {
+            "part": "好",
+            "beginIndex": 6,
+            "endIndex": 6,
+            "charType": 0
+          }
+        ],
+        "charType": 0
+      }
+    ],
+    "rhythm": 99,
+    "fluency": 99,
+    "warning": [
+      {
+        "code": 1002,
+        "message": "Audio volume too low!"
+      }
+    ],
+    "overall": 99,
+    "integrity": 100,
+    "tone": 97,
+    "kernel_version": "2.1.6"
+  },
+  "dtLastResponse": "2023-07-16 00:31:13:594",
+  "tokenId": "tokenId",
+  "refText": "今天的天气真好",
+  "params": {
+    "app": {
+      "applicationId": "168932340900019b",
+      "userId": "guest",
+      "sig": "4842129228cd1a533e67aba34a3ea0bab435a494",
+      "timestamp": "1689438687"
+    },
+    "audio": {
+      "channel": 1,
+      "sampleBytes": 2,
+      "sampleRate": 16000,
+      "audioType": "wav"
+    },
+    "request": {
+      "coreType": "sent.eval.cn",
+      "slack": 1,
+      "refText": "今天的天气真好",
+      "tokenId": "tokenId"
+    }
+  },
+  "recordId": "64b2c9d11667d1200000460d",
+  "eof": 1
+}

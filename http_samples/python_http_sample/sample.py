@@ -4,21 +4,28 @@ import hashlib
 import requests
 import json
 
-appKey = "Insert your appKey here"
-secretKey = "Insert your secretKey here"
+
+appKey = "168932340900019b"
+secretKey = "2574faba477fb1ee5980c27e22195196"
 
 baseURL = "https://api.speechsuper.com/"
 
 timestamp = str(int(time.time()))
 
-coreType = "word.eval" # Change the coreType according to your needs.
-refText = "supermarket" # Change the reference text according to your needs.
-audioPath = "supermarket.wav" # Change the audio path corresponding to the reference text.
+coreType = "sent.eval.cn" # Change the coreType according to your needs.
+refText = "绿 是 阳春 烟 景 大块 文章 的 底色 四月 的 林 峦 更是 绿 得 鲜活 秀媚 诗意 盎然" # Change the reference text according to your needs.
+slack = 1
+audioPath = "A2_0.wav" # Change the audio path corresponding to the reference text.
+
+# y, s = librosa.load(audioPath, sr=16000)
+# sf.write("output.wav", y, 16000)
+# audioPath = "output.wav"
+
 audioType = "wav" # Change the audio type corresponding to the audio file.
 audioSampleRate = 16000
 userId = "guest"
 
-url =  baseURL + coreType
+url = baseURL + coreType
 connectStr = (appKey + timestamp + secretKey).encode("utf-8")
 connectSig = hashlib.sha1(connectStr).hexdigest()
 startStr = (appKey + timestamp + userId + secretKey).encode("utf-8")
@@ -58,7 +65,8 @@ params={
 			"request":{
 				"coreType":coreType,
 				"refText":refText,
-				"tokenId":"tokenId"
+				"tokenId":"tokenId",
+				"slack":slack
 			}
 
 		}

@@ -1,0 +1,147 @@
+{
+  "params": {
+      "request": {
+          "coreType": "sent.eval.cn",
+          "refText": "你好",
+          "tokenId": "tokenId",
+          "slack": -1
+      },
+      "audio": {
+          "audioType": "mp3",
+          "channel": 1,
+          "sampleBytes": 2,
+          "sampleRate": 16000
+      },
+      "app": {
+          "userId": "guest",
+          "timestamp": "1690442521",
+          "applicationId": "168932340900019b",
+          "sig": "482c9bf1d95c2b42a7d3a0a1f7d94b17894f2ab9"
+      }
+  },
+  "refText": "你好",
+  "applicationId": "168932340900019b",
+  "recordId": "64c21b1f4aa5c22000004619",
+  "tokenId": "tokenId",
+  "result": {
+      "resource_version": "1.5.6",
+      "duration": "3.539",
+      "rhythm": 83,
+      "tone": 56,
+      "words": [
+          {
+              "pause": {
+                  "type": 0,
+                  "duration": 0
+              },
+              "phonemes": [
+                  {
+                      "tone_index": "0",
+                      "phone": "n",
+                      "pronunciation": 45,
+                      "phoneme": "N",
+                      "span": {
+                          "start": 258,
+                          "end": 268
+                      }
+                  },
+                  {
+                      "tone_index": "1",
+                      "phone": "i",
+                      "pronunciation": 100,
+                      "phoneme": "I",
+                      "span": {
+                          "start": 268,
+                          "end": 275
+                      }
+                  }
+              ],
+              "tone": "tone2",
+              "span": {
+                  "start": 258,
+                  "end": 275
+              },
+              "pinyin": "ni",
+              "readType": 0,
+              "word_parts": [
+                  {
+                      "charType": 0,
+                      "endIndex": 0,
+                      "part": "你",
+                      "beginIndex": 0
+                  }
+              ],
+              "charType": 0,
+              "word": "你",
+              "scores": {
+                  "overall_pron": 89,
+                  "prominence": 1,
+                  "tone": 100,
+                  "overall": 86,
+                  "pronunciation": 86
+              }
+          },
+          {
+              "pause": {
+                  "type": 0,
+                  "duration": 0
+              },
+              "phonemes": [
+                  {
+                      "tone_index": "0",
+                      "phone": "h",
+                      "pronunciation": 100,
+                      "phoneme": "H",
+                      "span": {
+                          "start": 275,
+                          "end": 283
+                      }
+                  },
+                  {
+                      "tone_index": "1",
+                      "phone": "ao",
+                      "pronunciation": 100,
+                      "phoneme": "AO",
+                      "span": {
+                          "start": 283,
+                          "end": 309
+                      }
+                  }
+              ],
+              "tone": "tone3",
+              "span": {
+                  "start": 275,
+                  "end": 309
+              },
+              "pinyin": "hao",
+              "readType": 0,
+              "word_parts": [
+                  {
+                      "charType": 0,
+                      "endIndex": 1,
+                      "part": "好",
+                      "beginIndex": 1
+                  }
+              ],
+              "charType": 0,
+              "word": "好",
+              "scores": {
+                  "overall_pron": 82,
+                  "prominence": 0,
+                  "tone": 12,
+                  "overall": 100,
+                  "pronunciation": 100
+              }
+          }
+      ],
+      "overall": 86,
+      "pronunciation": 93,
+      "fluency": 100,
+      "integrity": 100,
+      "kernel_version": "2.1.7",
+      "rear_tone": "fall",
+      "speed": 235
+  },
+  "dtLastResponse": "2023-07-27 15:22:07:774",
+  "eof": 1
+}
